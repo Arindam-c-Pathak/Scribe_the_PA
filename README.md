@@ -1,4 +1,5 @@
 # Scribe_the_PA
+WARNING: This program is currently limited to the Windows deviced with latest python version 3.12.5 installed
 This is the algorithm/partial code for my personal assistant program names "Scribe"
 To use this code to its fullest potential, you need to get the following files and API and links:
 1. A weather information gathering API along with the base link
